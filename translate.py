@@ -167,7 +167,7 @@ textJP={
 }
 
 textIT = {
-    'lan':'Italiano Italian',
+    'lan':'Italiano',
     'lanOption':'Italian',
     'lanMenu':'Lingua',
     'title':'Petoi Controllo per OpenCat',

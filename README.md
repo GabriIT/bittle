@@ -11,10 +11,26 @@ I bumped into it when searching for a sophisticated robot open source, with more
 As for today I could successfully go through the bumpy road of having it under control in terms of software understanding and hardware design. Of course due to Prof.Li design continuous  improvements and exptensions is quite challenging to keep pace with all new feature emerging.
 
 This article aims to show the implementation of ‘Bittle climbing’ in which Bittle climb a structure, while turning upside down. Additionally the smart dog carry out checks and change postures while staying in this odd posture.  Hereafter the video showing the result:
-https://www.youtube.com/watch?v=cWgpqxFAHh8
+https://youtu.be/vl9BTNeSmMg
 
 A app allows to control Bittle also from a mobile phone with instruction available at: +
 https://docs.petoi.com/app-guide
 
 OpenCat.ino is the main control module and can be found at following link:
 https://github.com/PetoiCamp/OpenCat/tree/main
+
+
+
+-Hackster.io, 'climbing' process and hardware preparation 
+Description details: https://www.hackster.io/masami03ga/bittle-smart-dog-a-challenging-application-30c561
+
+-App instructions : https://docs.petoi.com/app-guide
+
+-Bittle, User manual: https://bittle.petoi.com/
+
+-Petoi repository Opencat: https://github.com/PetoiCamp/OpenCat
+
+-Petoi repository Opencat 2.0: https://github.com/PetoiCamp/OpenCat/tree/main
+
+
+

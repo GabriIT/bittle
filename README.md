@@ -1,5 +1,5 @@
-# bittle
-bittle 6 DOF robot
+# Bittle
+Bittle 6 DOF robot
 
 Bittle is a open source programmable quadruped robot kit suitable for STEM, new develoopments, AI-experimentation and in general multi-DOF robot design and control applications development. Explanations, instruction are continually updated as well as new application details: a starting page to deep into understanding the versatility of this smart dog can be found at www.petoi.com/ 
 
